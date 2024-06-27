@@ -1,0 +1,14 @@
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\bin\Debug\FitnessTrackingApp.exe.config
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\bin\Debug\FitnessTrackingApp.exe
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\bin\Debug\FitnessTrackingApp.pdb
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.csproj.AssemblyReference.cache
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.ActivityForm.resources
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.Dashboard.resources
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.GoalSettingForm.resources
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.MonitoringProgressForm.resources
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.UserForm.resources
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.Properties.Resources.resources
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.csproj.GenerateResource.cache
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.exe
+C:\Users\NCC LEVEL 4\source\repos\FitnessTrackingApp\FitnessTrackingApp\obj\Debug\FitnessTrackingApp.pdb
